@@ -1,16 +1,8 @@
 # sport_classification
 
-A new Flutter application.
+A Flutter application- Detecting sport
 
-## Getting Started
+<img width="240" alt="Screenshot 2021-10-22 123801" src="https://user-images.githubusercontent.com/72077470/138432489-c3d20021-fa93-4132-bea9-07da0a3d6eeb.png"> <img width="239" alt="Screenshot 2021-10-22 123703" src="https://user-images.githubusercontent.com/72077470/138432507-efd83906-ae10-4972-ba4a-6a4dcdd689c7.png">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
